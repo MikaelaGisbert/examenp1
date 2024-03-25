@@ -1,0 +1,10 @@
+.gameboard{
+    background-color: coral;
+}
+.gameboard .btn-start{
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 10%;
+}
